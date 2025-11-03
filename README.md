@@ -1,5 +1,5 @@
 # AirportProjectApplication
-using core-java , spring-boot , hybernate , mysql and postmal tool
+using core-java , spring-boot , hibernate , mysql and postmal tool
 Description : The Airport Baggage Storage and Reporting System is a backend application designed to store and manage passenger baggage information and automatically share baggage details with connected flights at their destination airports. The system supports secure and real-time baggage tracking across terminals and ensures smooth communication between airport systems and airline databases.
  
 Roles and Responsibilities:
